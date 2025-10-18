@@ -1,16 +1,18 @@
 # CodeConnect
 
-A new Flutter project.
+• Collaboratively built a Flutter app featuring coding problems with an in-app editor (3+ languages), along
+with contests, mock interviews, and community forums
 
-## Getting Started
+• Integrated AI-powered interview simulation with Gemini, enabling resume-based question generation and
+real-time performance feedback
 
-This project is a starting point for a Flutter application.
+<img width="1362" height="958" alt="image" src="https://github.com/Jugnu-Gupta/Code-Connect/blob/main/Problems%20Page.png" />
 
-A few resources to get you started if this is your first Flutter project:
 
--   [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
--   [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<img width="1362" height="958" alt="image" src="https://github.com/Jugnu-Gupta/Code-Connect/blob/main/Problem.png" />
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+<img width="1362" height="958" alt="image" src="https://github.com/Jugnu-Gupta/Code-Connect/blob/main/Alumini%20Map.png" />
+
+
+https://github.com/Jugnu-Gupta/Code-Connect/blob/main/Problems%20Page.png?raw=true
