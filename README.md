@@ -15,4 +15,4 @@ real-time performance feedback
 <img width="1362" height="958" alt="image" src="https://github.com/Jugnu-Gupta/Code-Connect/blob/main/Alumini%20Map.png" />
 
 
-https://github.com/Jugnu-Gupta/Code-Connect/blob/main/Problems%20Page.png?raw=true
+<img width="1362" height="958" alt="image" src="https://github.com/Jugnu-Gupta/Code-Connect/blob/main/Problems%20Page.png" />
